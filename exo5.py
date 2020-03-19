@@ -6,4 +6,4 @@ while a==0:
     a=int(input("entre une valeur "))
 
 listevide=[]
-a=5
+a=55
